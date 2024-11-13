@@ -14,8 +14,8 @@ As an instructor and cybersecurity expert, I am passionate about equipping learn
 
 ## Books
 
-- **Hands-on with Cybersecurity and Blockchain** - A practical guide to integrating blockchain technology with cybersecurity.
-- **Security Monitoring with Wazuh** - An in-depth exploration of Wazuh SIEM for modern Security Operations Centers.
+- **Hands-on with Cybersecurity and Blockchain** <a href="https://amazon.com"><img src="https://img.shields.io/badge/-Amazon-FF9900?&style=for-the-badge&logo=Amazon&logoColor=white" /></a> - A practical guide to integrating blockchain technology with cybersecurity.
+- **Security Monitoring with Wazuh** <a href="https://amazon.com"><img src="https://img.shields.io/badge/-Amazon-FF9900?&style=for-the-badge&logo=Amazon&logoColor=white" /></a> - An in-depth exploration of Wazuh SIEM for modern Security Operations Centers.
 
 ## Courses
 
@@ -34,12 +34,12 @@ As an instructor and cybersecurity expert, I am passionate about equipping learn
 
 ## Upcoming Free Webinars
 
-| Webinar Topic                                       | Date           | Registration Link                               |
-|-----------------------------------------------------|----------------|-------------------------------------------------|
-| Mock Interview for Cybersecurity Roles              | [Insert Date]  | [Register Here](https://yourwebinarlink.com)    |
-| Introduction to Splunk SIEM                         | [Insert Date]  | [Register Here](https://yourwebinarlink.com)    |
-| Defensive Team Essentials for SOC Analysts          | [Insert Date]  | [Register Here](https://yourwebinarlink.com)    |
-| 10 Steps to Effective Incident Response             | [Insert Date]  | [Register Here](https://yourwebinarlink.com)    |
-| Network Traffic Analysis and Threat Detection       | [Insert Date]  | [Register Here](https://yourwebinarlink.com)    |
+| Webinar Topic                                       | Registration Link                               |
+|-----------------------------------------------------|-------------------------------------------------|
+| Mock Interview for Cybersecurity Roles              | [Register Here](https://yourwebinarlink.com)    |
+| Introduction to Splunk SIEM                         | [Register Here](https://yourwebinarlink.com)    |
+| Defensive Team Essentials for SOC Analysts          | [Register Here](https://yourwebinarlink.com)    |
+| 10 Steps to Effective Incident Response             | [Register Here](https://yourwebinarlink.com)    |
+| Network Traffic Analysis and Threat Detection       | [Register Here](https://yourwebinarlink.com)    |
 
 Feel free to explore my resources, connect with me, and join upcoming webinars to enhance your skills in cybersecurity!

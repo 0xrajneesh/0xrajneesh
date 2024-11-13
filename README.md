@@ -9,7 +9,7 @@ As an instructor and cybersecurity expert, I am passionate about equipping learn
 
 | Project Name                                         | Description                                                   |
 |------------------------------------------------------|---------------------------------------------------------------|
-| [Detection Lab](https://github.com/)                 | A comprehensive lab for mastering SIEM and log analysis.      |
+| [Splunk for Log Analysis](https://github.com/0xrajneesh/Splunk-Projects-For-Beginners)                 | A comprehensive lab for mastering SIEM and log analysis.      |
 | [SOC Automation Project](https://github.com/)        | Automating SOC workflows with Shuffle SOAR and TheHive.       |
 | [Linux Forensics](https://github.com/)               | Tools and resources for deep dives into Linux forensics.      |
 | [Network Traffic Analysis Lab](https://github.com/)  | Hands-on exercises for network traffic monitoring and threat detection. |

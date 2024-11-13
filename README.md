@@ -1,11 +1,11 @@
-# Hello, I'm Rajneesh Gupta
+# 👋 Hello, I'm Rajneesh Gupta
 <a href="https://www.linkedin.com/in/rajneeshcyber/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.youtube.com/@RajneeshCyber"><img src="https://img.shields.io/badge/-YouTube-FF0000?&style=for-the-badge&logo=YouTube&logoColor=white" /></a>
 
 
 As an instructor and cybersecurity expert, I am passionate about equipping learners with hands-on, practical experiences in cybersecurity. Here, you’ll find my popular GitHub projects, books, courses, bootcamp, and upcoming free webinars.
 
-## Popular GitHub Projects
+## 🚀 Popular GitHub Projects
 
 | Project Name                                         | Description                                                   |
 |------------------------------------------------------|---------------------------------------------------------------|
@@ -14,9 +14,9 @@ As an instructor and cybersecurity expert, I am passionate about equipping learn
 | [Ethical Hacking Projects for Beginners](https://github.com/0xrajneesh/Ethical-Hacking-Projects-for-beginners)               | Hands-on projects for Ethical hacking and penetration testing      |
 | [Windows Forensics Projects for Beginners](https://github.com/0xrajneesh/Windows-Forensics-Projects-for-Beginners)  | Practical excercises on Windows forensics and analysis |
 
-## Bootcamp
+## 🏆 Bootcamp
 
-### Ultimate Security Analyst Bootcamp with 60 Days Challenge
+**Ultimate Security Analyst Bootcamp with 60 Days Challenge**
 The Ultimate SOC Analyst Bootcamp is designed to provide in-depth learning and practical experience. With over 13 courses and certificates, structured challenges, and hands-on labs, this program equips you with the skills needed for a SOC Analyst role.
 
 
@@ -27,7 +27,7 @@ The Ultimate SOC Analyst Bootcamp is designed to provide in-depth learning and p
 
 [Learn More About the Bootcamp](https://learn.haxsecurity.com/services/securitychallenge)
 
-## Upcoming Free Webinars
+## 📅 Upcoming Free Webinars
 
 | Webinar Topic                                       | Registration Link                               |
 |-----------------------------------------------------|-------------------------------------------------|
@@ -40,7 +40,7 @@ The Ultimate SOC Analyst Bootcamp is designed to provide in-depth learning and p
 
 
 
-## Books
+## 📚 Books
 
 - **Hands-on with Cybersecurity and Blockchain** <a href="https://www.amazon.in/Hands-Cybersecurity-Blockchain-Implement-protection-ebook/dp/B07DTB3SLX?ref_=ast_author_dp"><img src="https://img.shields.io/badge/-Amazon-FF9900?&style=for-the-badge&logo=Amazon&logoColor=white" /></a> 
 - **Security Monitoring with Wazuh** <a href="https://www.amazon.in/Security-Monitoring-Wazuh-hands-enterprise/dp/1837632154/ref=sr_1_3?crid=3HUTRSQHP8JCZ&dib=eyJ2IjoiMSJ9.n-u8AxGbBx7_4_ScEG7qPGuCsmZHDWxFDspT0mTIODN8d_7ghojqiN6QTWZfNhJWg296HJ9iKHnR5uCVHBxt8d5fZ7WbqVmlenW_qoskwligGqlkmpWf9xMD7ArRFUdqiO2xqiaOv4gbnSLUQDtnHP9TeORqJnMg1EeSB_bOvP32_5CDSQUYmPt4nIazEKkOtZCnEWxJeZhCZB_vQDqHLaUp6WDWnH0jYPcQv5ikuhQ.TsXVjxAgFOPlJ4q-bmVcfGSWtGkIAFwBIWGRLTwdPhE&dib_tag=se&keywords=rajneesh+gupta+books&qid=1731494063&sprefix=rajneesh+gupta+book%2Caps%2C183&sr=8-3"><img src="https://img.shields.io/badge/-Amazon-FF9900?&style=for-the-badge&logo=Amazon&logoColor=white" /></a> 

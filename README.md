@@ -16,11 +16,10 @@ As an instructor and cybersecurity expert, I am passionate about equipping learn
 
 ## Bootcamp
 
-### Ultimate SOC Analyst Bootcamp
-- **Live Sessions**: 36 hours of interactive learning on SOC operations.
+### Ultimate Security Analyst Bootcamp with 60 Days Challenge
 - **Recorded Content**: 95 hours of training covering network security, phishing analysis, incident response, and more.
 
-[Learn More About the Bootcamp](https://yourbootcamp.com)
+[Learn More About the Bootcamp](https://learn.haxsecurity.com/services/securitychallenge)
 
 ## Upcoming Free Webinars
 

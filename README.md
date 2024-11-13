@@ -1,55 +1,45 @@
-# Hello, I'm CHANGEME
+# Hello, I'm [Your Name]
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+As an instructor and cybersecurity expert, I am passionate about equipping learners with hands-on, practical experiences in cybersecurity. Here, you’ll find my popular GitHub projects, books, courses, bootcamp, and upcoming free webinars.
 
-## Objective
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+## Popular GitHub Projects
 
-## Skills
+| Project Name                                         | Description                                                   |
+|------------------------------------------------------|---------------------------------------------------------------|
+| [Detection Lab](https://github.com/)                 | A comprehensive lab for mastering SIEM and log analysis.      |
+| [SOC Automation Project](https://github.com/)        | Automating SOC workflows with Shuffle SOAR and TheHive.       |
+| [Linux Forensics](https://github.com/)               | Tools and resources for deep dives into Linux forensics.      |
+| [Network Traffic Analysis Lab](https://github.com/)  | Hands-on exercises for network traffic monitoring and threat detection. |
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+## Books
 
-## Tools
+- **Hands-on with Cybersecurity and Blockchain** - A practical guide to integrating blockchain technology with cybersecurity.
+- **Security Monitoring with Wazuh** - An in-depth exploration of Wazuh SIEM for modern Security Operations Centers.
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+## Courses
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+- **Cybersecurity Kickstarter Blueprint**: A foundational guide to launching a cybersecurity career.
+- **Splunk for Security Analysts**: Training on using Splunk in real-world security operations.
+- **ISO 27001 Essentials**: Step-by-step insights into ISO 27001 implementation.
+- **Endpoint Investigation and Forensics**: Techniques for endpoint investigations on both Windows and Linux.
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+## Bootcamp
 
-## Certifications
+### Ultimate SOC Analyst Bootcamp
+- **Live Sessions**: 36 hours of interactive learning on SOC operations.
+- **Recorded Content**: 95 hours of training covering network security, phishing analysis, incident response, and more.
 
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+[Learn More About the Bootcamp](https://yourbootcamp.com)
 
-## Projects
+## Upcoming Free Webinars
 
-- **Detection Lab**: A hands-on lab focusing on SIEM implementation and log analysis for threat detection.
-- **SOC Automation Project**: A project demonstrating security automation with Shuffle SOAR, TheHive case management, and incident response execution.
+| Webinar Topic                                       | Date           | Registration Link                               |
+|-----------------------------------------------------|----------------|-------------------------------------------------|
+| Mock Interview for Cybersecurity Roles              | [Insert Date]  | [Register Here](https://yourwebinarlink.com)    |
+| Introduction to Splunk SIEM                         | [Insert Date]  | [Register Here](https://yourwebinarlink.com)    |
+| Defensive Team Essentials for SOC Analysts          | [Insert Date]  | [Register Here](https://yourwebinarlink.com)    |
+| 10 Steps to Effective Incident Response             | [Insert Date]  | [Register Here](https://yourwebinarlink.com)    |
+| Network Traffic Analysis and Threat Detection       | [Insert Date]  | [Register Here](https://yourwebinarlink.com)    |
+
+Feel free to explore my resources, connect with me, and join upcoming webinars to enhance your skills in cybersecurity!

@@ -14,8 +14,8 @@ As an instructor and cybersecurity expert, I am passionate about equipping learn
 
 ## Books
 
-- **Hands-on with Cybersecurity and Blockchain** <a href="https://amazon.com"><img src="https://img.shields.io/badge/-Amazon-FF9900?&style=for-the-badge&logo=Amazon&logoColor=white" /></a> - A practical guide to integrating blockchain technology with cybersecurity.
-- **Security Monitoring with Wazuh** <a href="https://amazon.com"><img src="https://img.shields.io/badge/-Amazon-FF9900?&style=for-the-badge&logo=Amazon&logoColor=white" /></a> - An in-depth exploration of Wazuh SIEM for modern Security Operations Centers.
+- **Hands-on with Cybersecurity and Blockchain** <a href="https://amazon.com"><img src="https://img.shields.io/badge/-Amazon-FF9900?&style=for-the-badge&logo=Amazon&logoColor=white" /></a> 
+- **Security Monitoring with Wazuh** <a href="https://amazon.com"><img src="https://img.shields.io/badge/-Amazon-FF9900?&style=for-the-badge&logo=Amazon&logoColor=white" /></a> 
 
 ## Courses
 

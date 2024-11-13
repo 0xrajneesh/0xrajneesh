@@ -11,8 +11,8 @@ As an instructor and cybersecurity expert, I am passionate about equipping learn
 |------------------------------------------------------|---------------------------------------------------------------|
 | [Splunk for Log Analysis](https://github.com/0xrajneesh/Splunk-Projects-For-Beginners)                 | A comprehensive lab for mastering SIEM and log analysis.      |
 | [Active Directory Monitoring Projects](https://github.com/0xrajneesh/Active-Directory-Monitoring-Projects)        | Monitoring Active directory events and security alerts      |
-| [Linux Forensics](https://github.com/)               | Tools and resources for deep dives into Linux forensics.      |
-| [Network Traffic Analysis Lab](https://github.com/)  | Hands-on exercises for network traffic monitoring and threat detection. |
+| [Ethical Hacking Projects for Beginners](https://github.com/0xrajneesh/Ethical-Hacking-Projects-for-beginners)               | Hands-on projects for Ethical hacking and penetration testing      |
+| [Windows Forensics Projects for Beginners](https://github.com/0xrajneesh/Windows-Forensics-Projects-for-Beginners)  | Practical excercises on Windows forensics and analysis |
 
 ## Bootcamp
 

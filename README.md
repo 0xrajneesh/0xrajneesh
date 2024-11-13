@@ -32,14 +32,6 @@ As an instructor and cybersecurity expert, I am passionate about equipping learn
 | 10 Steps to Effective Incident Response             | [Register Here](https://yourwebinarlink.com)    |
 | Network Traffic Analysis and Threat Detection       | [Register Here](https://yourwebinarlink.com)    |
 
-## Courses
-
-- **Cybersecurity Kickstarter Blueprint**: A foundational guide to launching a cybersecurity career.
-- **Splunk for Security Analysts**: Training on using Splunk in real-world security operations.
-- **ISO 27001 Essentials**: Step-by-step insights into ISO 27001 implementation.
-- **Endpoint Investigation and Forensics**: Techniques for endpoint investigations on both Windows and Linux.
-
-
 
 
 

@@ -31,11 +31,11 @@ The Ultimate SOC Analyst Bootcamp is designed to provide in-depth learning and p
 
 | Webinar Topic                                       | Registration Link                               |
 |-----------------------------------------------------|-------------------------------------------------|
-| Introduction to Wireshark              | [Register Here](https://learn.haxsecurity.com/web/checkout/66e88a58d639b2797488fd56)    |
-| Introduction to Splunk SIEM                         | [Register Here](https://learn.haxsecurity.com/web/checkout/66f3fcc454765af8fcbd8e46)    |
-| Introduction to Wazuh          | [Register Here](https://learn.haxsecurity.com/web/checkout/671fd1e27507c00bcceab32c)    |
-| Dark Web Monitoring             | [Register Here](https://learn.haxsecurity.com/web/checkout/671fd3f016cf3909d96b0684)    |
-| Cybersecurity Career Roadmap       | [Register Here](https://learn.haxsecurity.com/l/cad40ff0cd)    |
+| Introduction to Wireshark              | [Register Now](https://learn.haxsecurity.com/web/checkout/66e88a58d639b2797488fd56)    |
+| Introduction to Splunk SIEM                         | [Register Now](https://learn.haxsecurity.com/web/checkout/66f3fcc454765af8fcbd8e46)    |
+| Introduction to Wazuh          | [Register Now](https://learn.haxsecurity.com/web/checkout/671fd1e27507c00bcceab32c)    |
+| Dark Web Monitoring             | [Register Now](https://learn.haxsecurity.com/web/checkout/671fd3f016cf3909d96b0684)    |
+| Cybersecurity Career Roadmap       | [Register Now](https://learn.haxsecurity.com/l/cad40ff0cd)    |
 
 
 

@@ -42,7 +42,7 @@ The Ultimate SOC Analyst Bootcamp is designed to provide in-depth learning and p
 
 ## Books
 
-- **Hands-on with Cybersecurity and Blockchain** <a href="https://amazon.com"><img src="https://img.shields.io/badge/-Amazon-FF9900?&style=for-the-badge&logo=Amazon&logoColor=white" /></a> 
-- **Security Monitoring with Wazuh** <a href="https://amazon.com"><img src="https://img.shields.io/badge/-Amazon-FF9900?&style=for-the-badge&logo=Amazon&logoColor=white" /></a> 
+- **Hands-on with Cybersecurity and Blockchain** <a href="https://www.amazon.in/Hands-Cybersecurity-Blockchain-Implement-protection-ebook/dp/B07DTB3SLX?ref_=ast_author_dp"><img src="https://img.shields.io/badge/-Amazon-FF9900?&style=for-the-badge&logo=Amazon&logoColor=white" /></a> 
+- **Security Monitoring with Wazuh** <a href="https://www.amazon.in/Security-Monitoring-Wazuh-hands-enterprise/dp/1837632154/ref=sr_1_3?crid=3HUTRSQHP8JCZ&dib=eyJ2IjoiMSJ9.n-u8AxGbBx7_4_ScEG7qPGuCsmZHDWxFDspT0mTIODN8d_7ghojqiN6QTWZfNhJWg296HJ9iKHnR5uCVHBxt8d5fZ7WbqVmlenW_qoskwligGqlkmpWf9xMD7ArRFUdqiO2xqiaOv4gbnSLUQDtnHP9TeORqJnMg1EeSB_bOvP32_5CDSQUYmPt4nIazEKkOtZCnEWxJeZhCZB_vQDqHLaUp6WDWnH0jYPcQv5ikuhQ.TsXVjxAgFOPlJ4q-bmVcfGSWtGkIAFwBIWGRLTwdPhE&dib_tag=se&keywords=rajneesh+gupta+books&qid=1731494063&sprefix=rajneesh+gupta+book%2Caps%2C183&sr=8-3"><img src="https://img.shields.io/badge/-Amazon-FF9900?&style=for-the-badge&logo=Amazon&logoColor=white" /></a> 
 
 Feel free to explore my resources, connect with me, and join upcoming webinars to enhance your skills in cybersecurity!

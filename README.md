@@ -14,18 +14,6 @@ As an instructor and cybersecurity expert, I am passionate about equipping learn
 | [Linux Forensics](https://github.com/)               | Tools and resources for deep dives into Linux forensics.      |
 | [Network Traffic Analysis Lab](https://github.com/)  | Hands-on exercises for network traffic monitoring and threat detection. |
 
-## Books
-
-- **Hands-on with Cybersecurity and Blockchain** <a href="https://amazon.com"><img src="https://img.shields.io/badge/-Amazon-FF9900?&style=for-the-badge&logo=Amazon&logoColor=white" /></a> 
-- **Security Monitoring with Wazuh** <a href="https://amazon.com"><img src="https://img.shields.io/badge/-Amazon-FF9900?&style=for-the-badge&logo=Amazon&logoColor=white" /></a> 
-
-## Courses
-
-- **Cybersecurity Kickstarter Blueprint**: A foundational guide to launching a cybersecurity career.
-- **Splunk for Security Analysts**: Training on using Splunk in real-world security operations.
-- **ISO 27001 Essentials**: Step-by-step insights into ISO 27001 implementation.
-- **Endpoint Investigation and Forensics**: Techniques for endpoint investigations on both Windows and Linux.
-
 ## Bootcamp
 
 ### Ultimate SOC Analyst Bootcamp
@@ -43,5 +31,21 @@ As an instructor and cybersecurity expert, I am passionate about equipping learn
 | Defensive Team Essentials for SOC Analysts          | [Register Here](https://yourwebinarlink.com)    |
 | 10 Steps to Effective Incident Response             | [Register Here](https://yourwebinarlink.com)    |
 | Network Traffic Analysis and Threat Detection       | [Register Here](https://yourwebinarlink.com)    |
+
+## Courses
+
+- **Cybersecurity Kickstarter Blueprint**: A foundational guide to launching a cybersecurity career.
+- **Splunk for Security Analysts**: Training on using Splunk in real-world security operations.
+- **ISO 27001 Essentials**: Step-by-step insights into ISO 27001 implementation.
+- **Endpoint Investigation and Forensics**: Techniques for endpoint investigations on both Windows and Linux.
+
+
+
+
+
+## Books
+
+- **Hands-on with Cybersecurity and Blockchain** <a href="https://amazon.com"><img src="https://img.shields.io/badge/-Amazon-FF9900?&style=for-the-badge&logo=Amazon&logoColor=white" /></a> 
+- **Security Monitoring with Wazuh** <a href="https://amazon.com"><img src="https://img.shields.io/badge/-Amazon-FF9900?&style=for-the-badge&logo=Amazon&logoColor=white" /></a> 
 
 Feel free to explore my resources, connect with me, and join upcoming webinars to enhance your skills in cybersecurity!

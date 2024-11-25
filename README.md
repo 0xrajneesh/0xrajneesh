@@ -16,7 +16,7 @@ As an instructor and cybersecurity expert, I am passionate about equipping learn
 
 ## 🏆 Bootcamp
 
-**Ultimate Security Analyst Bootcamp with 60 Days Challenge**   
+### Ultimate Security Analyst Bootcamp with 60 Days Challenge
 The Ultimate SOC Analyst Bootcamp is designed to provide in-depth learning and practical experience. With over 13 courses and certificates, structured challenges, and hands-on labs, this program equips you with the skills needed for a SOC Analyst role.
 
 
@@ -25,7 +25,7 @@ The Ultimate SOC Analyst Bootcamp is designed to provide in-depth learning and p
 | 13+                    | 8 Challenges/60 Days | Hands-on: 8 Projects | Videos + Hands-on Labs      | Money Back Guarantee: 7 Days |
 
 
-[Learn More About the Bootcamp](https://learn.haxsecurity.com/services/securitychallenge)
+### [Learn More About the Bootcamp](https://learn.haxsecurity.com/services/securitychallenge)###
 
 ## 📅 Upcoming Free Webinars
 
